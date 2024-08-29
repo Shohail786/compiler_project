@@ -750,6 +750,7 @@ def test_sumFun():
 
 
 test_for()
+print("test for() is successfull")
 # test_list()
 # test_let()
 # test_func()
